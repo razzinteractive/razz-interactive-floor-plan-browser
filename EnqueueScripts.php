@@ -1,4 +1,4 @@
-<?php namespace RazzRemoteInteractiveFloorPlanBrowser;
+<?php namespace RazzInteractiveFloorPlanBrowser;
 
 class EnqueueScripts
 {
