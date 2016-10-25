@@ -3,7 +3,7 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Razz Interactive Floor Plan Browser
- * Plugin URI:        http://razzinteractive.com
+ * Plugin URI:        https://github.com/razzinteractive/razz-interactive-floor-plan-browser/
  * Description:       Add script to access the Razz Interactive Floor Plan Browser remotely.
  * Version:           1.0.0
  * Author:            Razz Interactive
