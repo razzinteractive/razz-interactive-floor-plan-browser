@@ -8,7 +8,6 @@
  * Version:           1.0.0
  * Author:            Razz Interactive
  * Author URI:        http://razzinteractive.com
- * License:           proprietary
  */
 
 require_once(dirname(__FILE__) . '/acf-assets/options-page.php');
