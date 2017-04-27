@@ -2,7 +2,7 @@
 
 A WordPress plugin for [Razz Interactive](http://razzinteractive.com) clients to connect their site to the Razz Interactive Floor Plan Browser.
 
-##Installation
+## Installation
 1. Install and activate [Advanced Custom Fields](https://www.advancedcustomfields.com/) if you don't have it already.
 2. Install and activate this plugin.
 3. Visit the settings page **(Settings -> Razz Interactive Floor Plan Browser)** and enter the Property ID provided to you by [Razz Interactive](http://razzinteractive.com).
