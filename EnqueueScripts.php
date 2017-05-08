@@ -15,6 +15,6 @@ class EnqueueScripts
 
         if(!$property_id) return;
 
-        wp_enqueue_script('razz-remote-interactive-floor-plan-browser', "http://apt.razzinteractive.com/{$property_id}?widget", ['jquery'], '1.0.0', true);
+        wp_enqueue_script('razz-remote-interactive-floor-plan-browser', "https://apt.razzinteractive.com/{$property_id}?widget", ['jquery'], '1.0.0', true);
     }
 }
