@@ -5,7 +5,7 @@
  * Plugin Name:       Razz Interactive Floor Plan Browser
  * Plugin URI:        https://github.com/razzinteractive/razz-interactive-floor-plan-browser/
  * Description:       Add script to access the Razz Interactive Floor Plan Browser.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Razz Interactive
  * Author URI:        http://razzinteractive.com
  */
